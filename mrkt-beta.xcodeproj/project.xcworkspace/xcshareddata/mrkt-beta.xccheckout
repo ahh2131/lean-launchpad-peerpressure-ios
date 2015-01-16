@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB055AFA-0BE5-4845-AF34-F10EC33A939B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mrkt-beta</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29DB9151ED2DE73F8ECE2FC83656284D09FC2DA1</key>
+		<string>/Users/Andy/Documents/mrkt-beta/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mrkt-beta.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29DB9151ED2DE73F8ECE2FC83656284D09FC2DA1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>/Users/Andy/Documents/mrkt-beta/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29DB9151ED2DE73F8ECE2FC83656284D09FC2DA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29DB9151ED2DE73F8ECE2FC83656284D09FC2DA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>peerpressure</string>
+		</dict>
+	</array>
+</dict>
+</plist>
